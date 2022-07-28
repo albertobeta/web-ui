@@ -1529,6 +1529,10 @@
       {
         "elementName": "Podping",
         "elementURL": "https://rss.com/"
+      },
+      {
+        "elementName": "Value",
+        "elementURL": "https://rss.com/"
       }
     ]
   },
